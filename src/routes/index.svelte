@@ -24,7 +24,7 @@
 	<h1> Hello, my name is Ksenia</h1>
 	
 	<div id = "my-photo">
-		<img src = {'https://i.pinimg.com/originals/bd/f0/25/bdf025165c835a6c22eced2a83fd49c3.jpg'}>
+		<img src = {'https://i.pinimg.com/originals/bd/f0/25/bdf025165c835a6c22eced2a83fd49c3.jpg'} alt='photo'>
 		<p> I haven't any good photo, so, look at this cute dog </p>
 	</div>
 	
