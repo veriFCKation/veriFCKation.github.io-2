@@ -28,13 +28,13 @@
 		<p> I haven't any good photo, so, look at this cute dog </p>
 	</div>
 	
-	<button on:click = {findDog}> 
+	<button on:click = {findDog} id="pictureDog">
 		I think, this dog looks lonely 
 	</button>
 	
 	<div id = "new-photo" style = {newPhotoType}>
 		<p> Ok, let's find a friend! </p>
-		<img style = "width:230px" src = {src1} alt = "random-dog">
+		<img id="dogImg" style = "width:230px" src = {src1} alt = "random-dog">
 	</div>
 
 </main>
